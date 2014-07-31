@@ -4,4 +4,5 @@ void main()
 {
   cout<<"WELCOME...!!!";
   cout<<"hellooooo....";
+  cout<<"Good morning..";
 }
